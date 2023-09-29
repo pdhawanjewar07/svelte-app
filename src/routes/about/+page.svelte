@@ -32,7 +32,6 @@
 <style>
     body{
         margin: 0;
-        background-color: black;
     }
     .cerf-images {
         display: flex;
