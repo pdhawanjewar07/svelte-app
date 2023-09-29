@@ -42,7 +42,6 @@
     }
     .course h1 {
         text-align: center;
-        color: white;
         padding-left: 10px;
         padding-right: 10px;
         font-size: 3vw;
