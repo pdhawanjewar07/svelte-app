@@ -1,7 +1,10 @@
-<script>
-    let count=0;
-</script>
 
-<h1>Counter : {count}</h1>
-<button on:click={()=> count+=1}>Increase</button>
-<button on:click={()=> count-=1}>Decrease</button>
+
+<h1>Main page</h1>
+<button><a href="./about">About</a></button>
+
+<style>
+    h1{
+        text-align: center;
+    }
+</style>

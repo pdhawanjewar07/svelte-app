@@ -16,6 +16,7 @@ const config = {
 		adapter: adapter(),
 		paths: {
 			base: dev ? 'https://pdhawanjewar07.io/svelte-app' : process.env.BASE_PATH,
+			base: '/svelte-app',
 		}
 	}
 };
